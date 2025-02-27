@@ -1,7 +1,5 @@
 # Learning-and-Regression-on-the-Grassmannian
 
-# MATLAB Demo: Reduced-rank SM-GP
-
 This MATLAB demo provides an implementation of the "Regression on the Grassmannian based on the Monte Carlo sampling" method 
 
 ## Table of Contents
